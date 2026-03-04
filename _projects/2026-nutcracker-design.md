@@ -13,8 +13,7 @@ I approached this question by first finding a reasonable input or grip force req
 
 ---
 
-![Nutcracker Free Body Diagram](/assets/images/nutcracker-FBD.png)
-
+![Nutcracker Free Body Diagram](../../assets/images/nutcracker-FBD.png)
 ---
 
 Based on my calculations and using a reasonable assumed value of 19.5 cm for dimension y, I obtained 4 cm for dimension x, making my nutcracker about 23.5 cm long. This is a bit large for a nutcracker. The long ddimensions of the handles (19.5 cm) also make it hard to press down for objects with bigger diameters since these handles will be further apart. As such, this design does not seem to be very practical in reality.
