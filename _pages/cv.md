@@ -14,6 +14,7 @@ permalink: /cv/
 
 #### Objective
 Aspiring biomedical engineering student passionate about molecular sysytems and seeking to secure a position related to biomedical research to develop strong lab skills and contribute to cutting-edge work in genetics, cellular systems, and biomedical innovation.
+
 ---
 
 #### Education
@@ -69,7 +70,7 @@ instruction
   - Support daily operations of a student resource center through front desk management  
   - Assist with planning and implementation of workshops and peer engagement initiatives  
 
-  
+
 ---
 
 
